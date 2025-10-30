@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{AED7C3D1-A819-4980-B3EC-19F148817CCF}") = "LearningToHack", "ConsoleApp2\LearningToHack.csproj", "{8F5ADC46-1014-47AB-B310-D90B56521799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F5ADC46-1014-47AB-B310-D90B56521799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5ADC46-1014-47AB-B310-D90B56521799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5ADC46-1014-47AB-B310-D90B56521799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5ADC46-1014-47AB-B310-D90B56521799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BE61D2B-EB91-4516-8EA0-47006C7F78F4}
+	EndGlobalSection
+EndGlobal
